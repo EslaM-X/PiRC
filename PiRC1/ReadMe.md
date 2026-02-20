@@ -11,7 +11,7 @@ Pi will review and consider community input from GitHub and high-level feedback 
 ## Table of contents
 
   - [`1-vision`](1-vision.md) **(start here)**
-  - [`2-design`](2-design.md)
+  - [`2-core-design`](2-core-design.md)
   - [`3-participation`](3-participation.md)
 - **Design 1**
   - [`4-allocation design 1`](<4-allocation/4-allocation design 1.md>)

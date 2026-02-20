@@ -20,4 +20,4 @@ Pi Launchpad aims to provide:
 - **Unlock schedules** that align project and community interests.
 - **On-chain transparency** of the launch process ensured by immutable smart contracts.
 
-Next: [`2-Design`](2-design.md)
+Next: [`2-Core-Design`](2-core-design.md)
